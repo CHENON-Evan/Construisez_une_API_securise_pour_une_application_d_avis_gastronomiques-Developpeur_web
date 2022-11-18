@@ -1,4 +1,4 @@
-#getting started
+# getting started
 
 1. go to Frontend
 2. excute npm start
